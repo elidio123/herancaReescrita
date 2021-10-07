@@ -26,7 +26,7 @@ public class Funcionario{
     public void setDepartamento(String departamento){
         this.departamento=departamento;
     }
-    public String setDepartamento(){
+    public String getDepartamento(){
         return this.departamento;
     }
     public double getBonificacao(){
